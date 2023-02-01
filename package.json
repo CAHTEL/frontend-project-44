@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/CAHTEL/frontend-project-44#readme",
   "bin": {
-    "code": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js"
   },
   "dependencies": {
     "http-server": "^14.1.1"
-  }
+  },
+  "devDependencies": {}
 }
